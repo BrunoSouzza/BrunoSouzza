@@ -9,7 +9,7 @@ I'm Bruno, a 28 year old Full Stack Developer from Brazil and I'm passionate abo
 More about me:
 - :office: I’m currently working on [Marimex](https://www.marimex.com.br/) - [@Steppwize](https://github.com/steppwize)
 - :school: I'm a Systems Analysis student in [UNICESUMAR (Universidade de Maringá)](https://www.unicesumar.edu.br/ead/)
-- :family: I'm love my family
+- :family: I love my family
 <br/>
 
 <details>
