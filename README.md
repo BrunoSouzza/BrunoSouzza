@@ -4,7 +4,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/souza0010/)](https://www.facebook.com/souza0010/) 
 
 
-I'm Bruno, a 28 year old Full Stack Developer from Brazil and I'm passionate about technology, communities, and everything in-between. I love to learn and contribute in any and every possible way.
+I'm Bruno, a 29 year old Full Stack Developer from Brazil and I'm passionate about technology, communities, and everything in-between. I love to learn and contribute in any and every possible way.
 
 More about me:
 - :office: I’m currently working on [Marimex](https://www.marimex.com.br/) - [@Steppwize](https://github.com/steppwize)
