@@ -49,6 +49,6 @@ More about me:
 <!-- ![TypeScript](https://img.shields.io/static/v1?message=TypeScript&logo=TypeScript&labelColor=007ACC&color=007ACC&logoColor=white&label=%20) -->
 
 ### Versionadores
-![Git](https://img.shields.io/static/v1?message=Git&logo=Git&labelColor=181717&color=5c5c5c&logoColor=white&label=%20)
+![Git](https://img.shields.io/static/v1?message=Git&logo=Git&labelColor=f14e32&color=5c5c5c&logoColor=white&label=%20)
 ![GitHub](https://img.shields.io/static/v1?message=GitHub&logo=GitHub&labelColor=181717&color=5c5c5c&logoColor=white&label=%20)
 ![GitLab](https://img.shields.io/static/v1?message=GitLab&logo=GitLab&labelColor=FCA121&color=5c5c5c&logoColor=white&label=%20)
