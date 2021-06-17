@@ -6,12 +6,13 @@
 
 I'm Bruno, a 29 year old Full Stack Developer from Brazil and I'm passionate about technology, communities, and everything in-between. I love to learn and contribute in any and every possible way.
 
+<!--
 More about me:
 - :office: I’m currently working on [Marimex](https://www.marimex.com.br/) - [@Steppwize](https://github.com/steppwize)
 - :school: I'm a Systems Analysis student in [UNICESUMAR (Universidade de Maringá)](https://www.unicesumar.edu.br/ead/)
 - :family: I love my family
 <br/>
-
+-->
 <details>
   <summary>:zap: Github Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=brunosouzza&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
