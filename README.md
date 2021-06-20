@@ -24,7 +24,7 @@ More about me:
 </details>
 <br/>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/brunosouzza)
+![\Tools](https://visitor-badge.glitch.me/badge?page_id=github/brunosouzza)
 
 ## 🚀💻 Technologies & Tools
 
