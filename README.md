@@ -50,7 +50,7 @@ Atuação como **Líder Técnico** em múltiplos projetos de grande porte nos se
 - Aplicação de padrões de projeto como **SOLID, Mediator, Repository Pattern e Strategy**, com uso de **Function Calling** e serviços de OCR com IA Generativa.  
 - **Stack:** .NET 8, React, Azure OpenAI, Document Intelligence, Kafka, Azure DevOps, Git/GitHub.
 
-#### 🚜 **CNH Industrial — Líder Técnico**
+#### 🚜 **CNH Industrial —  Desenvolvedor Back-End**
 - Concepção, planejamento e desenvolvimento de **chatbots para consulta e solicitação de peças**.  
 - **Stack:** Bot Framework v4, Serviço Cognitivo LUIS, React, Redux, Duck Pattern, .NET Core, .NET 6, MongoDB, Azure DevOps, Azure Cloud, Git.
 
@@ -60,13 +60,18 @@ Atuação como **Líder Técnico** em múltiplos projetos de grande porte nos se
 - Implementação de **testes unitários (xUnit) e integrados**, aplicando padrões como **SOLID, Mediator e Repository Pattern**.  
 - **Stack:** Bot Framework v4 integrado ao **Dynamics CRM for Omnichannel**, .NET 6, Azure OpenAI, Node.js, Redis, Azure Bot, Storage Account, Azure Functions, Azure Web App, Docker, Azure DevOps, Git.
 
+#### 🏦 **Santander — Desenvolvedor Back-End**
+- Participação da equipe de Open Finance/Banking.
+- Aplicações de padrões de projetos (SOLID, Mediator, Strategy, Repository Pattern e Unit of Work).
+- Aplicações de testes unitários (xUnit), integrados.
+- **Stack:** .Net Framework 4.5/4.8, .Net Core, Node.js, SQL Server, Redis, RabbitMQ, Docker, TFS, Azure DevOps, Git, entre outras. **
 ---
 
-### **Steppwize — Desenvolvedor Full Stack Sênior (07/2021 – 12/2021)**
+### 🪙 **Steppwize — Desenvolvedor Full Stack Sênior (07/2021 – 12/2021)**
 - Liderança técnica em módulos financeiros e empresariais.  
 - **Stack:** .NET Core, Vue.js, Angular, AWS (Lambda, RDS, SQS).
 
-### **Marimex — Desenvolvedor Full Stack (2017 – 2021)**
+### 🚛 **Marimex — Desenvolvedor Full Stack (2017 – 2021)**
 - Sustentação e evolução de sistemas internos com **.NET, SQL Server, AngularJS, React**.  
 - Configuração de servidores **IIS** e gestão de deploy.
 
