@@ -39,7 +39,7 @@ Tenho experiência sólida com **.NET, C#, Angular, Python e Azure**, além de t
 ### **Avanade — Consultor Sênior (12/2021 – atual) · Remoto**
 Atuação como **Líder Técnico** em múltiplos projetos de grande porte nos setores de varejo, financeiro e saúde, com foco em arquitetura escalável, IA Generativa e boas práticas de desenvolvimento.
 
-#### 🚀 **Fast Shop — Líder Técnico**
+#### 🏬 **Fast Shop — Líder Técnico**
 - Desenvolvimento de um produto baseado em **IA Generativa** para criação de vídeos promocionais para redes sociais.  
 - Responsável pela implementação completa do produto, aplicando conceitos de produção de vídeos (Brainstorming, Briefing, Script) utilizando **agentes de IA Generativa**.  
 - **Stack:** .NET 8, Next.js, Azure OpenAI, Azure PostgreSQL, Azure Event Hub, LangChain, LangGraph, KlingAI.
