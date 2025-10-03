@@ -12,7 +12,7 @@ Tenho experiência sólida com **.NET, C#, Angular, Python e Azure**, além de t
 ## 🚀 Principais Competências
 
 ### 🏗️ Arquitetura & Back-end
-- **C# / .NET (Core & 8)**
+- **C# / .NET (Core) / .NET 8, 9, 10**
 - **CQRS, DDD, Mediator, SOLID**
 - **Mensageria (Kafka, RabbitMQ, Azure Event Hub)**
 - **Bancos de Dados Relacionais e NoSQL** (SQL Server, PostgreSQL, MongoDB)
@@ -36,32 +36,39 @@ Tenho experiência sólida com **.NET, C#, Angular, Python e Azure**, além de t
 ---
 
 ## 💼 Experiência Profissional
+### **Avanade — Consultor Sênior (12/2021 – atual) · Remoto**
+Atuação como **Líder Técnico** em múltiplos projetos de grande porte nos setores de varejo, financeiro e saúde, com foco em arquitetura escalável, IA Generativa e boas práticas de desenvolvimento.
 
-**Avanade — Consultor Sênior (12/2021 – atual) [Remoto]**  
-Líder técnico em múltiplos projetos de grande porte nos setores de varejo, financeiro e saúde.  
-- Liderança no desenvolvimento de produtos com IA Generativa para criação de vídeos promocionais (Fast Shop).  
-- Arquitetura e implementação de soluções escaláveis com .NET 8, Next.js, Azure OpenAI, PostgreSQL, Event Hub e LangGraph.  
-- Concepção de pipelines DevOps e imagens Docker para stacks complexas.  
+#### 🚀 **Fast Shop — Líder Técnico**
+- Desenvolvimento de um produto baseado em **IA Generativa** para criação de vídeos promocionais para redes sociais.  
+- Responsável pela implementação completa do produto, aplicando conceitos de produção de vídeos (Brainstorming, Briefing, Script) utilizando **agentes de IA Generativa**.  
+- **Stack:** .NET 8, Next.js, Azure OpenAI, Azure PostgreSQL, Azure Event Hub, LangChain, LangGraph, KlingAI.
 
-**XP Investimentos — Líder Técnico**  
-- Desenvolvimento de solução para **OCR e processamento inteligente de documentos** com IA Generativa.  
-- Implementação de testes unitários, integrados e de carga (xUnit, SpecFlow, k6).  
-- Aplicação de padrões SOLID, Mediator, Strategy e uso de **Azure OpenAI + Function Calling**.  
+#### 🏦 **XP Investimentos — Líder Técnico**
+- Concepção, planejamento e desenvolvimento de um projeto de **OCRização e processamento inteligente de documentos** utilizando **IA Generativa**.  
+- Implementação de **testes unitários (xUnit), integrados, funcionais (SpecFlow) e de carga (k6)**.  
+- Aplicação de padrões de projeto como **SOLID, Mediator, Repository Pattern e Strategy**, com uso de **Function Calling** e serviços de OCR com IA Generativa.  
+- **Stack:** .NET 8, React, Azure OpenAI, Document Intelligence, Kafka, Azure DevOps, Git/GitHub.
 
-**Odontoprev — Líder Técnico**  
-- Criação de canais de atendimento integrados com IA Generativa para triagem e indicação de especialistas.  
-- Integração com **Microsoft Dynamics CRM for Omnichannel, .NET 6, Azure OpenAI e Docker.**
+#### 🚜 **CNH Industrial — Líder Técnico**
+- Concepção, planejamento e desenvolvimento de **chatbots para consulta e solicitação de peças**.  
+- **Stack:** Bot Framework v4, Serviço Cognitivo LUIS, React, Redux, Duck Pattern, .NET Core, .NET 6, MongoDB, Azure DevOps, Azure Cloud, Git.
 
-**Santander — Desenvolvedor Back-End**  
-- Desenvolvimento para **Open Finance/Banking** aplicando padrões arquiteturais e testes automatizados.  
+#### 🦷 **Odontoprev — Líder Técnico**
+- Planejamento e desenvolvimento de diversos **canais de atendimento** para públicos e empresas do grupo Odontoprev.  
+- Utilização de **IA Generativa** para sugerir o especialista adequado com base nos sintomas informados pelo usuário (Function Calling + **RAG – Retrieval-Augmented Generation**).  
+- Implementação de **testes unitários (xUnit) e integrados**, aplicando padrões como **SOLID, Mediator e Repository Pattern**.  
+- **Stack:** Bot Framework v4 integrado ao **Dynamics CRM for Omnichannel**, .NET 6, Azure OpenAI, Node.js, Redis, Azure Bot, Storage Account, Azure Functions, Azure Web App, Docker, Azure DevOps, Git.
 
-**Steppwize — Desenvolvedor Full Stack Sênior (07/2021 – 12/2021)**  
-- Liderança técnica no desenvolvimento de módulos financeiros e empresariais.  
-- Stack: .NET Core, Vue.js, Angular, AWS (Lambda, RDS, SQS).
+---
 
-**Marimex — Desenvolvedor Full Stack (2017 – 2021)**  
-- Sustentação e evolução de sistemas internos com .NET, SQL Server, AngularJS, React.  
-- Configuração de servidores IIS e gestão de deploy.
+### **Steppwize — Desenvolvedor Full Stack Sênior (07/2021 – 12/2021)**
+- Liderança técnica em módulos financeiros e empresariais.  
+- **Stack:** .NET Core, Vue.js, Angular, AWS (Lambda, RDS, SQS).
+
+### **Marimex — Desenvolvedor Full Stack (2017 – 2021)**
+- Sustentação e evolução de sistemas internos com **.NET, SQL Server, AngularJS, React**.  
+- Configuração de servidores **IIS** e gestão de deploy.
 
 ---
 
