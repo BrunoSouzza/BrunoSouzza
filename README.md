@@ -116,6 +116,56 @@ Responsible for modernizing and maintaining critical internal systems.
 
 ## 🛠️ Technologies & Tools
 
+### 💻 Linguagens & Frameworks
+![C#](https://img.shields.io/badge/C%23-5c5c5c?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5c5c5c?style=flat-square&logo=.net&logoColor=white)
+![Python](https://img.shields.io/badge/Python-5c5c5c?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-5c5c5c?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-5c5c5c?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-5c5c5c?style=flat-square&logo=javascript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-5c5c5c?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-5c5c5c?style=flat-square&logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-5c5c5c?style=flat-square&logo=vue.js&logoColor=white)
+
+### 🗄️ Bancos de Dados & Mensageria
+![SQL Server](https://img.shields.io/badge/SQL%20Server-5c5c5c?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5c5c5c?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-5c5c5c?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-5c5c5c?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-5c5c5c?style=flat-square&logo=rabbitmq&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-5c5c5c?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-5c5c5c?style=flat-square&logo=azuredevops&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-5c5c5c?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-5c5c5c?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-5c5c5c?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-5c5c5c?style=flat-square&logo=githubactions&logoColor=white)
+
+### 🤖 IA & Automação
+![LangChain](https://img.shields.io/badge/LangChain-5c5c5c?style=flat-square&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-5c5c5c?style=flat-square&logo=graph&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-5c5c5c?style=flat-square&logo=openai&logoColor=white)
+![Document Intelligence](https://img.shields.io/badge/Document%20Intelligence-5c5c5c?style=flat-square&logo=microsoft&logoColor=white)
+
+### 🧪 Testes
+![xUnit](https://img.shields.io/badge/xUnit-5c5c5c?style=flat-square&logo=xunit&logoColor=white)
+![Moq](https://img.shields.io/badge/Moq-5c5c5c?style=flat-square&logo=mocha&logoColor=white)
+![Shouldly](https://img.shields.io/badge/Shouldly-5c5c5c?style=flat-square&logo=checkmarx&logoColor=white)
+![AutoFixture](https://img.shields.io/badge/AutoFixture-5c5c5c?style=flat-square&logo=autodesk&logoColor=white)
+
+---
+
+## 📫 Contato
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunodejesussouza/)](https://www.linkedin.com/in/brunodejesussouza/)  
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-5c5c5c?style=flat-square&logo=github&logoColor=white&link=https://github.com/brunosouzza)](https://github.com/brunosouzza)
+
+---
+
+⭐ *Sempre buscando evoluir, aprender novas tecnologias e construir soluções que façam a diferença.*
+
+
 ![C#](https://img.shields.io/badge/C%23-5c5c5c?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5c5c5c?style=flat-square&logo=.net&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-5c5c5c?style=flat-square&logo=microsoftsqlserver&logoColor=white)
