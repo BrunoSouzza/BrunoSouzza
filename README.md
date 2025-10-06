@@ -70,13 +70,23 @@ Working as a **Technical Lead** in multiple large-scale projects across retail, 
 
 ---
 
-### 🪙 **Steppwize — Senior Full Stack Developer (07/2021 – 12/2021)**
-- Technical leadership in financial and enterprise modules.  
-- **Stack:** .NET Core, Vue.js, Angular, AWS (Lambda, RDS, SQS).
+### 🪙 Steppwize — Senior Full Stack Developer (07/2021 – 12/2021)  
+Worked as a full stack developer on **financial and enterprise modules**, focusing on **clean architecture and best practices**.  
+- Developed and maintained features using **.NET Core (Web API)**, **Vue.js**, and **Angular**.  
+- Integrated with AWS services (**Lambda, RDS, SQS, CloudWatch, Route53**) to build scalable solutions.  
+- Implemented **CI/CD pipelines with Jenkins** for automated build and deployment.  
+- Applied **SOLID principles**, **Repository Pattern**, **Unit of Work**, and **Domain-Driven Design (DDD)**.  
+- Performed **code reviews** on Pull Requests and participated in daily stand-ups and weekly refinements.  
 
-### 🚛 **Marimex — Full Stack Developer (2017 – 2021)**
-- Maintained and evolved internal systems using **.NET, SQL Server, AngularJS, React**.  
-- Configured **IIS servers** and managed deployments.
+---
+
+### 🚛 Marimex — Full Stack Developer (10/2019 – 07/2021)  
+Responsible for modernizing and maintaining critical internal systems.  
+- Developed **Intranet**, **Extranet**, and **Institutional Website** applications using **AngularJS**, **.NET 4.5 (Web API, WPF, WCF)**, and **SQL Server**.  
+- Built mobile and operational apps using **React (PWA)**, **.NET Core 3.1**, and **SQL Server**.  
+- Configured and maintained **IIS servers** for application deployment.  
+- Applied **SOLID principles**, **Repository Pattern**, **Unit of Work**, and **DDD**.  
+- Managed version control and source code with **Git**.  
 
 ---
 
