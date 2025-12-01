@@ -6,7 +6,7 @@
 I’m a **Full Stack Developer and Technical Lead**, passionate about technology, software architecture, and **Generative AI** solutions.  
 I lead agile squads, define scalable architectures, and implement best practices such as **DDD, SOLID, CQRS, and Mediator**.
 
-I have solid experience with **.NET, C#, Angular, Python, and Azure**, and I work with **Generative AI** (Azure OpenAI, LangChain, LangGraph, KlingAI) to create innovative, impactful products.
+I have solid experience with **.NET, C#, Angular, Python, and Azure**, and I work with **Generative AI** (Azure OpenAI, LangChain, LangGraph) to create innovative, impactful products.
 
 ---
 
