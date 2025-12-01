@@ -93,10 +93,12 @@ Responsible for modernizing and maintaining critical internal systems.
 ## 🎓 Education & Certifications
 
 - **Bachelor’s in Systems Analysis and Development – CESUMAR (2024)**  
-- **Microsoft Certified: Azure AI Fundamentals (2024)**  
-- **Microsoft Certified: Azure Fundamentals (2022)**  
-- **Microsoft Certified: Azure Data Fundamentals (2022)**  
-- **The Linux Foundation – Green Software for Practitioners (2024)**  
+- **Microsoft Certified: Azure AI Fundamentals - AI-900 (2024)**  
+- **Microsoft Certified: Azure Fundamentals - AZ-900(2022)**  
+- **Microsoft Certified: Azure Data Fundamentals - DP-900 (2022)**  
+- **The Linux Foundation – Green Software for Practitioners (2024)**
+- **GitHub Foundations - GH-900 (2025 - 2027)**
+- **GitHub Copilot - GH-300 (2025 - 2027)**  
 
 ---
 
