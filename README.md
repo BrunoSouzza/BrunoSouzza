@@ -98,7 +98,8 @@ Responsible for modernizing and maintaining critical internal systems.
 - **Microsoft Certified: Azure Data Fundamentals - DP-900 (2022)**  
 - **The Linux Foundation – Green Software for Practitioners (2024)**
 - **GitHub Foundations - GH-900 (2025 - 2027)**
-- **GitHub Copilot - GH-300 (2025 - 2027)**  
+- **GitHub Copilot - GH-300 (2025 - 2027)**
+- **GitHub Actions - GH-200 (2026 - 2028)**  
 
 ---
 
